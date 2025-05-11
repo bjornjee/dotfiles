@@ -1,7 +1,3 @@
-# Taps
-tap 'homebrew/homebrew-cask'
-tap 'homebrew/bundle'
-
 # Binaries
 brew 'awscli'
 brew 'bash' # Latest Bash version
@@ -17,6 +13,7 @@ brew 'mackup'
 brew 'mas' # Mac App Store manager
 brew 'pkg-config' # https://github.com/driesvints/dotfiles/issues/20
 brew 'svn' # Needed to install fonts
+brew 'uv'
 
 # Apps
 cask 'caffeine'
@@ -38,9 +35,10 @@ cask 'tuple'
 cask 'visual-studio-code'
 cask 'zoom'
 cask 'tailscale'
-cask 'sublime'
+cask 'sublime-text'
 cask 'obsidian'
 cask 'bitwarden'
+cask 'synology-drive'
 
 
 # Fonts
