@@ -51,5 +51,3 @@ cask 'font-source-sans-pro'
 cask 'font-source-serif-pro'
 
 # Mac App Store
-mas 'Keynote', id: 409183694
-mas 'Speedtest', id: 1153157709
