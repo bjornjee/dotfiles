@@ -51,3 +51,4 @@ cask 'font-source-sans-pro'
 cask 'font-source-serif-pro'
 
 # Mac App Store
+mas 'Amphetamine', id:937984704 #Amphetamine
