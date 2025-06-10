@@ -39,6 +39,7 @@ cask 'sublime-text'
 cask 'obsidian'
 cask 'bitwarden'
 cask 'synology-drive'
+cask 'cursor'
 
 
 # Fonts
