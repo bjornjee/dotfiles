@@ -14,6 +14,9 @@ brew 'mas' # Mac App Store manager
 brew 'pkg-config' # https://github.com/driesvints/dotfiles/issues/20
 brew 'svn' # Needed to install fonts
 brew 'uv'
+brew 'colima' # run with docker
+brew 'docker' 
+brew 'docker-compose'
 
 # Apps
 cask 'caffeine'
